@@ -17,13 +17,13 @@ Mini Challenge 3 for CCAPDEV2021T2
 - Submit the zip file via AnimoSpace.
 
 ## Content
-- [controllers](controllers) - This folder contains files which defines callback functions for client requests.
-- [misc](misc) - This folder contains images used in the [`README.md`](README.md) file.
-- [models](models) - This folder contains files for database modeling and access.
-- [public](public) - This folder contains static assets such as css, js, and image files.
-- [routes](routes) - This folder contains files which describes the response of the server for each HTTP method request to a specific path in the server.
-- [views](views) - This folder contains all hbs files to be rendered when requested from the server.
-- [index.js](index.js) - The main entry point of the web application.
+- [`controllers`](controllers) - This folder contains files which defines callback functions for client requests.
+- [`misc`](misc) - This folder contains images used in the [`README.md`](README.md) file.
+- [`models`](models) - This folder contains files for database modeling and access.
+- [`public`](public) - This folder contains static assets such as css, js, and image files.
+- [`routes`](routes) - This folder contains files which describes the response of the server for each HTTP method request to a specific path in the server.
+- [`views`](views) - This folder contains all hbs files to be rendered when requested from the server.
+- [`index.js`](index.js) - The main entry point of the web application.
 
 ## Challenge Description
 You are to create a web application which simulates an online payment transaction tracker.
