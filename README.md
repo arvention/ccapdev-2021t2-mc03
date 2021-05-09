@@ -57,7 +57,7 @@ If the current value in the `refno` text field **IS IN THE DATABASE**:
 - Display the error message `Reference number already in the database` in the `<p id="error">` element in [`views/index.hbs`](views/index.hbs).
 - Disable the `submit` button.
 
-Else if the current value in the `refno` text field **IS NOT YET IN THE DATABASE**:
+Else, if the current value in the `refno` text field **IS NOT YET IN THE DATABASE**:
 - Change the background color of the `refno` text field back to `#E3E3E3`
 - Remove the error message in the `<p id="error">` element in [`views/index.hbs`](views/index.hbs).
 - Enable the `submit` button.
