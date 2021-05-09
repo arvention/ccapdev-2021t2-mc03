@@ -67,7 +67,7 @@ The picture below shows the changes in the form if the current value in the `ref
 
 If ever we refresh the web application, all transactions in the database should be displayed.
 
-You are already provided with the skeleton code organized in MVC architecture. Your task is to study the web application and complete the code of the files below. You are **NOT ALLOWED** to modify other files except the files below. Editable parts of code are marked with `TODO` comments, where you can insert your code.
+You are already provided with the skeleton code organized in the MVC architecture. Your task is to study the web application and complete the code of the files below. You are **NOT ALLOWED** to modify other files except the files below. Editable parts of code are marked with `TODO` comments, where you can insert your code.
 - [`controllers/controller.js`](controllers/controller.js)
 - [`models/TransactionModel.js`](models/TransactionModel.js)
 - [`public/js/index.js`](public/js/index.js)
