@@ -57,7 +57,7 @@ Else if the current value in the `refno` text field **IS NOT YET IN THE DATABASE
 - Enable the `submit` button.
 
 The picture below shows the changes in the form if the current value in the `refno` text field is already in the database:
-![alt text](error.png "Error")
+![alt text](misc/error.png "Error")
 
 Upon refreshing the web application, all transactions in the database should be displayed.
 
