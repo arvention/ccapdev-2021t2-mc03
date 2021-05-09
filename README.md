@@ -8,7 +8,7 @@ Mini Challenge 3 for CCAPDEV2021T2
 
 ## Local Set Up
 - Make sure MongoDB is installed and running.
-- Run `npm install` after cloning or downloading the forked repository.
+- Run `npm install` after [downloading the repository](https://github.com/arvention/ccapdev-2021t2-mc03/archive/refs/heads/main.zip).
 - To run the application, execute `node index.js`
 
 ## Submission Details
@@ -23,6 +23,13 @@ Mini Challenge 3 for CCAPDEV2021T2
 - [routes](routes) - This folder contains files which describes the response of the server for each HTTP method request to a specific path in the server.
 - [views](views) - This folder contains all hbs files to be rendered when requested from the server.
 - [index.js](index.js) - The main entry point of the web application.
+
+## Challenge Description
+You are to create a web application which simulates an online payment transaction tracker.
+
+When a client requests for the root path, i.e. `/`, the server should display [`views/index.hbs`](views/index.hbs). Your web browser should display the screen below:
+![alt text](misc/index.png "Index Page")
+
 
 ## References
 Maximize the materials uploaded for class and the resources readily available on the internet.
