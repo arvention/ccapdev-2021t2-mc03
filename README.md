@@ -48,7 +48,7 @@ The web application then saves the values in the database, then display the valu
 The picture below shows how the web application should display the values that we have entered earlier:
 ![alt text](misc/displayed-transaction.png "Displayed Transaction")
 
-Each transaction may be removed using the `X` button on the upper right of the `<div>`. Upon clicking the `X` button, the web application deletes the transaction from the database then removes the corresponding `<div>` of the transaction from [`views/index.hbs`](views/index.hbs). This operation should be done **without refreshing the page**.
+Each transaction may be removed using the `X` button on the upper right of the `<div>`. Upon clicking the `X` button, the web application deletes the transaction from the database, then removes the corresponding `<div>` of the transaction from [`views/index.hbs`](views/index.hbs). This operation should be done **without refreshing the page**.
 
 Note that the reference number should be **UNIQUE** for each transaction - no two transactions may have the same reference number. Thus, you are required to check if the current value entered by the user in the `refno` text field has not yet been used by any other transaction in the database. You need to check this **EVERY TIME** the user enters a number in the `refno` text field.
 
