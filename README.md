@@ -18,6 +18,7 @@ Mini Challenge 3 for CCAPDEV2021T2
 
 ## Content
 - [controllers](controllers) - This folder contains files which defines callback functions for client requests.
+- [misc](misc) - This folder contains images used in the [`README.md`](README.md) file.
 - [models](models) - This folder contains files for database modeling and access.
 - [public](public) - This folder contains static assets such as css, js, and image files.
 - [routes](routes) - This folder contains files which describes the response of the server for each HTTP method request to a specific path in the server.
