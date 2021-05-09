@@ -1,0 +1,26 @@
+{
+  "name": "ccapdev-2021t2-mc03",
+  "version": "1.0.0",
+  "description": "Mini Challenge 3 for CCAPDEV2021T2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvention/ccapdev-2021t2-mc03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvention/ccapdev-2021t2-mc03/issues"
+  },
+  "homepage": "https://github.com/arvention/ccapdev-2021t2-mc03#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongoose": "^5.12.7"
+  }
+}
