@@ -8,7 +8,7 @@ Mini Challenge 3 for CCAPDEV2021T2
 
 ## Local Set Up
 - Make sure MongoDB is installed and running.
-- Run `npm install` after [downloading the repository](https://github.com/arvention/ccapdev-2021t2-mc03/archive/refs/heads/main.zip).
+- Run `npm install` after [downloading the contents of the repository](https://github.com/arvention/ccapdev-2021t2-mc03/archive/refs/heads/main.zip).
 - To run the application, execute `node index.js`
 
 ## Submission Details
