@@ -31,7 +31,7 @@ When a client requests for the root path, i.e. `/`, the server should display [`
 ![alt text](misc/index.png "Index Page")
 
 The web application accepts three inputs - a name, a reference number, and an amount. When the user submits the form, the web application first checks if all fields are filled. Sample user input:
-![alt text](filled-up-form.png "Filled Form")
+![alt text](misc/filled-up-form.png "Filled Form")
 
 The web application then saves the values in the database, then display the values in `index.hbs`. Use [`views/partials/card.hbs`](views/partials/card.hbs) to render the `<div>` for each transaction. Upon submitting the form, the transaction should be displayed immediately **without refreshing the page**.
 
@@ -40,7 +40,7 @@ The web application then saves the values in the database, then display the valu
 **HINT:** The server can render the handlebars template and send the rendered HTML partial. See the [express documentation on `res.render`](https://expressjs.com/en/api.html#res.render) to know more.
 
 The picture below shows how the web application should display the values that we have entered earlier:
-![alt text](displayed-contact.png "Displayed Contact")
+![alt text](misc/displayed-contact.png "Displayed Contact")
 
 ## References
 Maximize the materials uploaded for class and the resources readily available on the internet.
