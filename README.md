@@ -39,7 +39,7 @@ Upon clicking the submit button, if at least one of the form fields is not fille
 The picture below shows the changes the error message when at least one of the form fields is not filled-up:
 ![alt text](misc/no-input.png "No input")
 
-The web application then saves the values in the database, then display the values in `index.hbs`. Use [`views/partials/card.hbs`](views/partials/card.hbs) to render the `<div>` for each transaction. Upon submitting the form, the transaction should be displayed immediately **without refreshing the page**.
+The web application then saves the values in the database, then display the values in [`views/index.hbs`](views/index.hbs). Use [`views/partials/card.hbs`](views/partials/card.hbs) to render the `<div>` for each transaction. Upon submitting the form, the transaction should be displayed immediately **without refreshing the page**.
 
 **HINT:** the client should communicate with the server **asynchronously**.
 
