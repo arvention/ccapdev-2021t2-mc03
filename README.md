@@ -1,4 +1,4 @@
-# ccapdev-mc03
+# ccapdev-2021t2-mc030
 Mini Challenge 3 for CCAPDEV2021T2
 
 ## General Instructions
