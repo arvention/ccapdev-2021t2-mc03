@@ -75,6 +75,9 @@ You are already provided with the skeleton code organized in the MVC architectur
 
 Goodluck and stay safe! :sunglasses:
 
+## Rubric
+Kindly check this [file](misc/rubric.pdf) for the rubric for grading.
+
 ## References
 Maximize the materials uploaded for class and the resources readily available on the internet.
 
